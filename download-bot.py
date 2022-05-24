@@ -22,7 +22,7 @@ print("""
 print()
 print("DOWNLOAD-BOT by KingfernJohn")
 print()
-file_size = input("Enter 'b' for normal sized files % 's' for small files: ")
+file_size = input("Enter 'b' for normal sized files & 's' for small files: ")
 print()
 starget = int(input("TARGET-DOWNLOAD.AMOUNT: "))+1
 stargetadr = input("TARGET-WEB.DOWNLOAD.ADRES: ")
