@@ -1,5 +1,6 @@
-pip install selenium
+pip install selenium   -   cmd
 
 https://chromedriver.chromium.org/downloads
+(your chrome version)
 
-
+https://www.python.org/downloads/
